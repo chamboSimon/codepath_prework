@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Simon-Chambo ios pre-work
 //
-//  Created by Gerald Shimo on 5/1/25.
+//  Created by Simon Chambo on 5/1/25.
 //
 
 import UIKit
