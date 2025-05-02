@@ -13,18 +13,70 @@ The following **required** functionality is completed:
 
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+ 📱 App Brainstorming
+Favorite Apps and Features
+1. Instagram
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Reels
 
-## App Brainstorming (Step 4)
+Deleting old messages
+
+Story sharing and quick reactions
+
+2. Spotify
+
+Personalized playlists (Discover Weekly, Release Radar)
+
+Downloading music for offline listening
+
+Cross-device music control
+
+3. Notion
+
+Drag-and-drop organization
+
+Customizable templates
+
+Collaboration and sharing with teams
+
+4. Duolingo
+
+Gamified learning (streaks, leaderboards)
+
+Daily reminders
+
+Bite-sized lessons
+
+5. Google Maps
+
+Real-time traffic updates
+
+Saved locations and lists
+
+Walking, biking, and transit options
+
+🧠 App Idea
+App Name: FocusFlow
+
+Description:
+FocusFlow is an all-in-one productivity and study companion designed for students and lifelong learners. The app will combine task planning, flashcard generation, Pomodoro timers, and progress analytics. It will use AI-driven insights to help users create flashcards from their notes, prioritize tasks based on deadlines and difficulty, and suggest optimal study times based on past behavior. The goal is to reduce the need for switching between multiple apps and to encourage consistent study habits.
+
+Planned Features:
+
+Task Planner with priority levels and due dates
+
+Smart Flashcard generation from notes or web links
+
+Pomodoro Timer with customizable work/break periods
+
+Progress analytics and behavior-based study suggestions
+
+Cross-device syncing
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Linking the button was interesting
 
 ## License
 
