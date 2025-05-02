@@ -1,11 +1,11 @@
 # codepath_prework
-# Prework - *Name of App Here*
+# Prework - Simon Chambo IOS prework
 
-Submitted by: **Your Name Here**
+Submitted by: Simon Chambo
 
-**Name of your app** is an app that... [TODO] 
+IOS prework is an app that changes the background color when a  button is pressed
 
-Time spent: **X** hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
@@ -28,7 +28,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Simon Chambo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
